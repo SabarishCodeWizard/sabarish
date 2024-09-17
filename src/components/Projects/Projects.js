@@ -6,7 +6,7 @@ import voice from "../../Assets/Projects/voice.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import extension from "../../Assets/Projects/extension.png";
 import attendance from "../../Assets/Projects/attendance.png";
-import suicide from "../../Assets/Projects/suicide.png";
+import car from "../../Assets/Projects/car.png";
 import tamil from "../../Assets/Projects/tamil.png";
 
 function Projects() {
@@ -68,7 +68,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={car}
               isBlog={false}
               title="Car Game with Hand Tracking"
               description="This is a simple car game implemented in Python using Pygame for graphics and MediaPipe for hand tracking. The player controls the car using hand gestures detected via the webcam."
