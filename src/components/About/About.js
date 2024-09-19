@@ -7,6 +7,8 @@ import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
 
+import ProfileStats from "./ProfileStats";
+
 function About() {
   return (
     <Container fluid className="about-section">
@@ -46,6 +48,8 @@ function About() {
         <Toolstack />
 
         <Github />
+        
+        <ProfileStats />
       </Container>
     </Container>
   );
