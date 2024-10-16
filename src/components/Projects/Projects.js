@@ -41,7 +41,7 @@ function Projects() {
               title="HiddenCost-Chrome-Extension"
               description="This Chrome extension allows users to scrape product information from e-commerce websites directly from their browser. It utilizes a popup interface for entering the product URL and provides real-time scraping functionality"
               ghLink="https://github.com/SabarishCodeWizard/HiddenCost-Chrome-Extension"
-              demoLink="https://www.youtube.com/watch?v=3X69VkNuC_8"              
+              demoLink="https://drive.google.com/file/d/1U50r-Ailh9SyInWPpGwikTAgF9Acui4y/view?usp=sharing"              
             />
           </Col>
           <Col md={4} className="project-card">
