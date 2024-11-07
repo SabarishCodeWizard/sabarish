@@ -7,6 +7,8 @@ import c2 from "../../Assets/Projects/c2.jpg";
 import c3 from "../../Assets/Projects/c3.jpg";
 import c4 from "../../Assets/Projects/c4.png";
 import c5 from "../../Assets/Projects/c5.png";
+import c6 from "../../Assets/Projects/c6.png";
+
 
 function Projects() {
     const [showModal, setShowModal] = useState(false);
@@ -60,11 +62,18 @@ function Projects() {
                             title="Hidden Cost Identifier"
                         />
                     </Col>
-                    <Col md={4} className="project-card" onClick={() => handleShow(c5)}>
+                    {/* <Col md={4} className="project-card" onClick={() => handleShow(c5)}>
                         <ProjectCard
                             imgPath={c5}
                             isBlog={false}
                             title="Data-Analytics"
+                        />
+                    </Col> */}
+                    <Col md={4} className="project-card" onClick={() => handleShow(c6)}>
+                        <ProjectCard
+                            imgPath={c6}
+                            isBlog={false}
+                            title="Project War"
                         />
                     </Col>
                 </Row>
