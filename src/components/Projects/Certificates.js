@@ -8,6 +8,8 @@ import c3 from "../../Assets/Projects/c3.jpg";
 import c4 from "../../Assets/Projects/c4.png";
 import c5 from "../../Assets/Projects/c5.png";
 import c6 from "../../Assets/Projects/c6.png";
+import c7 from "../../Assets/Projects/c7.png";
+
 
 
 function Projects() {
@@ -62,18 +64,18 @@ function Projects() {
                             title="Hidden Cost Identifier"
                         />
                     </Col>
-                    {/* <Col md={4} className="project-card" onClick={() => handleShow(c5)}>
+                    <Col md={4} className="project-card" onClick={() => handleShow(c7)}>
                         <ProjectCard
-                            imgPath={c5}
+                            imgPath={c7}
                             isBlog={false}
-                            title="Data-Analytics"
+                            title="Paper-War"
                         />
-                    </Col> */}
+                    </Col>
                     <Col md={4} className="project-card" onClick={() => handleShow(c6)}>
                         <ProjectCard
                             imgPath={c6}
                             isBlog={false}
-                            title="Project War"
+                            title="Project-War"
                         />
                     </Col>
                 </Row>
