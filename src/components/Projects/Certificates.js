@@ -9,7 +9,7 @@ import c4 from "../../Assets/Projects/c4.png";
 import c5 from "../../Assets/Projects/c5.png";
 import c6 from "../../Assets/Projects/c6.png";
 import c7 from "../../Assets/Projects/c7.png";
-
+import c8 from "../../Assets/Projects/c8.jpg";
 
 
 function Projects() {
@@ -74,6 +74,13 @@ function Projects() {
                     <Col md={4} className="project-card" onClick={() => handleShow(c6)}>
                         <ProjectCard
                             imgPath={c6}
+                            isBlog={false}
+                            title="Project-War"
+                        />
+                    </Col>
+                    <Col md={4} className="project-card" onClick={() => handleShow(c8)}>
+                        <ProjectCard
+                            imgPath={c8}
                             isBlog={false}
                             title="Project-War"
                         />
