@@ -82,7 +82,7 @@ function Projects() {
                         <ProjectCard
                             imgPath={c8}
                             isBlog={false}
-                            title="Project-War"
+                            title="Fullstack"
                         />
                     </Col>
                 </Row>
