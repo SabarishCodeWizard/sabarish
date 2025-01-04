@@ -28,7 +28,7 @@ function Projects() {
               title=" Monitoring System"
               description="This project is an attendance monitoring system that uses facial recognition technology to mark and track attendance. It utilizes OpenCV for face detection, a machine learning model for face recognition, and Flask for the web interface."
               ghLink="https://github.com/SabarishCodeWizard/Bannari-Amman-Attendance-Monitering-System"
-              demoLink="https://drive.google.com/file/d/1Gqt7hocnJyS9D3U5s7ufA17NXbxndkKI/view?pli=1"
+              demoLink="https://drive.google.com/file/d/19DtCOCDNhFMn8IpXLP6hMghvy6_xHZnQ/view?usp=sharing"
             />
           </Col>
 
