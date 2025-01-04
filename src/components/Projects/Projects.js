@@ -62,7 +62,7 @@ function Projects() {
               title="BIT-Voice-Assistant"
               description="A BIT voice assistant is a digital tool designed to understand and respond to spoken commands. It leverages voice recognition technology to interpret user requests, such as answering questions, setting reminders, playing music, or controlling smart devices"
               ghLink="https://github.com/SabarishCodeWizard/BIT-Voice-Assistant?tab=readme-ov-file"
-              demoLink="https://drive.google.com/file/d/1MiKG7Uwik6E1_09Ev09YLbfcmODy-b1G/view"
+              demoLink="https://drive.google.com/file/d/1jXT92DWPtoQz6x0AisIWCppVvD-_I5-M/view?usp=sharing"
             />
           </Col>
 
