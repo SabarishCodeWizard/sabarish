@@ -51,7 +51,7 @@ function Projects() {
               title="Speech Synthesis Application"
               description="This web application provides a comprehensive translation service that supports translating text between multiple languages using the Google Translate API. It includes features like speech-to-text, voice selection for text-to-speech, translation history, favorites management, and a leaderboard. The application is designed to facilitate easy interaction through its intuitive interface."
               ghLink="https://github.com/SabarishCodeWizard/-Tamil-Translation-and-Speech-Synthesis-Application-"
-              demoLink="https://bittranslator.pythonanywhere.com/home"
+              demoLink="https://bittranslator.pythonanywhere.com/"
             />
           </Col>
 
