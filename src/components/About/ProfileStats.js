@@ -45,13 +45,13 @@ function ProfileStats() {
             style={{ borderRadius: "10px", width: "100%" }}
           />
         </Col>
-        <Col xs={12} md={4} style={{ marginBottom: "10px" }}>
+        {/* <Col xs={12} md={4} style={{ marginBottom: "10px" }}>
           <img
             src="https://github-readme-streak-stats.herokuapp.com/?user=sabarishcodewizard&theme=chartreuse-dark"
             alt="GitHub Streak"
             style={{ borderRadius: "10px", width: "100%" }}
           />
-        </Col>
+        </Col> */}
       </Row>
 
       <h2 style={{ paddingBottom: "20px" }}>🏆 GitHub Trophies</h2>
@@ -70,24 +70,10 @@ function ProfileStats() {
             style={{ width: "48px", height: "48px" }}
           />
         </a>
-        <a href="" target="_blank" rel="noopener noreferrer">
-          <img
-            src="https://img.icons8.com/fluent/48/000000/twitter.png"
-            alt="Twitter"
-            style={{ width: "48px", height: "48px" }}
-          />
-        </a>
         <a href="https://www.instagram.com/r_sabarish_k/" target="_blank" rel="noopener noreferrer">
           <img
             src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
             alt="Instagram"
-            style={{ width: "48px", height: "48px" }}
-          />
-        </a>
-        <a href="" target="_blank" rel="noopener noreferrer">
-          <img
-            src="https://img.icons8.com/color/48/000000/youtube-play.png"
-            alt="YouTube"
             style={{ width: "48px", height: "48px" }}
           />
         </a>
