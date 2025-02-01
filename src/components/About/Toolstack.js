@@ -15,9 +15,6 @@ function TechStack() {
         <SiVercel />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPrisma />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -25,9 +22,6 @@ function TechStack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiSqlite />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiAndroidstudio />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiGit />
