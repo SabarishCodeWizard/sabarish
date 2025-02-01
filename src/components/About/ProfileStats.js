@@ -4,6 +4,12 @@ import { Row, Col } from "react-bootstrap";
 function ProfileStats() {
   return (
     <div style={{ padding: "20px", textAlign: "center" }}>
+      <h2 style={{ paddingBottom: "20px" }}>📈 Day by Day Contribution</h2>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=SabarishCodeWizard&radius=16&theme=react&area=true&order=5" height="300"
+        alt="GitHub Trophies"
+        style={{ borderRadius: "10px", width: "100%", maxWidth: "600px" }}
+      />
       <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col xs={12}>
           <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
@@ -13,10 +19,10 @@ function ProfileStats() {
             <img
               src="https://leetcard.jacoblin.cool/ravik60656"
               alt="LeetCode Stats"
-              style={{ 
-                borderRadius: "10px", 
-                border: "1px solid #ddd", 
-                width: "100%", 
+              style={{
+                borderRadius: "10px",
+                border: "1px solid #ddd",
+                width: "100%",
                 maxWidth: "600px",
                 display: "block",
                 margin: "0 auto"
@@ -25,11 +31,11 @@ function ProfileStats() {
           </a>
         </Col>
       </Row>
-      
+
       <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
         GitHub Profile 💪
       </h1>
-      
+
       <Row style={{ justifyContent: "center", marginBottom: "20px" }}>
         <Col xs={12} md={4} style={{ marginBottom: "10px" }}>
           <img
@@ -60,6 +66,9 @@ function ProfileStats() {
         alt="GitHub Trophies"
         style={{ borderRadius: "10px", width: "100%", maxWidth: "600px" }}
       />
+
+
+
 
       <h2 style={{ paddingTop: "20px" }}>Connect with me:</h2>
       <div style={{ display: "flex", justifyContent: "center", gap: "10px", flexWrap: "wrap" }}>
