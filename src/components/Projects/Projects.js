@@ -48,8 +48,8 @@ function Projects() {
             <ProjectCard
               imgPath={tamil}
               isBlog={false}
-              title="Speech Synthesis Application"
-              description="This web application provides a comprehensive translation service that supports translating text between multiple languages using the Google Translate API. It includes features like speech-to-text, voice selection for text-to-speech, translation history, favorites management, and a leaderboard. The application is designed to facilitate easy interaction through its intuitive interface."
+              title="BIT Translator & PDF Tools"
+              description="BIT Translator & PDF Tools is a Flask-based web application that provides multiple PDF and translation utilities, similar to iLovePDF. It includes PDF conversion, compression, merging, splitting, and a language translator with history and favorites."
               ghLink="https://github.com/SabarishCodeWizard/-Tamil-Translation-and-Speech-Synthesis-Application-"
               demoLink="https://bittranslator.pythonanywhere.com/login"
             />
